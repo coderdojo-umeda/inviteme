@@ -1,3 +1,3 @@
 # Invite Me to CoderDojo Umeda GitHub Organization
 
-https://github.com/coderdojo-umeda/inviteme/issues
+https://github.com/coderdojo-umeda/inviteme/issues/1
